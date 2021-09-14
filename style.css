@@ -1,0 +1,14 @@
+#rectangle {
+  width: 500px;
+  height: 500px;
+  background-color: #ffffff;
+  background-image: linear-gradient(
+    114deg,
+    #ffffff 0%,
+    #ff9d03 12%,
+    #d91c90 32%,
+    #244dbf 71%,
+    #2ed8ce 86%,
+    #ffffff 100%
+  );
+}
